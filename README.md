@@ -4,10 +4,10 @@
   - [Python](https://devdocs.io/python/)
 
 ## 🔥 Preview
-![image](https://user-images.githubusercontent.com/112414200/228094899-0af6055d-7f80-47a9-b51a-4f4acac0d239.png)
+![image](https://user-images.githubusercontent.com/112414200/228109676-f71b1dd4-2d42-4dc5-b95f-94adcc8911ae.png)
 
 ### Terminal
-![image](https://user-images.githubusercontent.com/112414200/228094963-625e8009-edd7-4ba6-8d4f-8880345cec39.png)
+![image](https://user-images.githubusercontent.com/112414200/228106995-68dca3e2-3eec-4a6a-8f6a-51cfd3e43282.png)
 
 
 ### 🚀 Instalação
